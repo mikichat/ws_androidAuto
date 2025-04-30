@@ -1,0 +1,38 @@
+{
+    "threshold": 0.8,
+    "button_images": {
+      "common": {
+        "deungdae": "images/common/deungdae.png",
+        "bogi": "images/common/bogi.png",
+        "nagagi": "images/common/nagagi.png",
+        "gongyeok": "images/common/gongyeok.png",
+        "gyunbaechi": "images/common/gyunbaechi.png",
+        "chuljeong": "images/common/chuljeong.png"
+      },
+      "deungdae_check": {
+        "check": "images/deungdae_check/check.png"
+      },
+      "deungdae_tent": {
+        "tent": "images/deungdae_tent/tent.png",
+        "gujo": "images/deungdae_tent/gujo.png"
+      },
+      "deungdae_geom": {
+        "geom": "images/deungdae_geom/geom.png",
+        "tamheom": "images/deungdae_geom/tamheom.png",
+        "jeontu": "images/deungdae_geom/jeontu.png"
+      },
+      "deungdae_skull": {
+        "skull": "images/deungdae_skull/skull.png"
+      },
+      "deungdae_baltop": {
+        "baltop": "images/deungdae_baltop/baltop.png"
+      }
+    },
+    "coordinates": {
+      "menu_icon": [64, 143]
+    },
+    "wait_times": {
+      "default": 1.0,
+      "after_button": 0.5,
+      "after_battle":
+      
